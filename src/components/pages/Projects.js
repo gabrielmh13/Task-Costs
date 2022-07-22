@@ -1,5 +1,10 @@
+import Message from "../layout/Message";
+
 export default function Projects(){
     return(
-        <h1>Projects</h1>
+        <div>
+            <h1>My Projects</h1>
+            <Message msg="Test" type="success" />
+        </div>
     );
 }
