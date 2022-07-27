@@ -1,26 +1,15 @@
 {
   "projects": [
     {
-      "name": "Desenvolvimento de Site",
-      "budget": "4000",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Design Site",
-      "budget": "3000",
+      "name": "Website Design",
+      "budget": "5000",
       "category": {
         "id": "3",
         "name": "Design"
       },
       "cost": 0,
       "services": [],
-      "id": 2
+      "id": 1
     }
   ],
   "categories": [
